@@ -1,3 +1,5 @@
+#Participantes da equipe:
+# Luis Eduardo Alves de Sousa - 202203004409
 from BombaCombustivel import BombaCombustivel
 
 tipoCombustivel = input("Tipo de Combustível: ")
